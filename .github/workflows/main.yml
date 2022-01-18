@@ -27,6 +27,6 @@ jobs:
   
       # Runs a single command using the runners shell
       - name: Test the context
-      - run: echo ${{ github }}
+      - run: echo ${{ github.action }}
       
       
