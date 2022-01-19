@@ -1,4 +1,4 @@
-name: Upload Website
+name: Deploy Text file test
 
 on:
   push:
